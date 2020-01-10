@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 
-public class kata
+public class squared
 {
     public static void Main()
     {
