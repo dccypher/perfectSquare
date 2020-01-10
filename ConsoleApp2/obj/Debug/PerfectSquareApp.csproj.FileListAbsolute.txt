@@ -5,3 +5,10 @@ C:\Users\crese\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\PerfectSquareApp.c
 C:\Users\crese\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\PerfectSquareApp.csproj.CoreCompileInputs.cache
 C:\Users\crese\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
 C:\Users\crese\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\crese\source\repos\dccypher\perfectSquare\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\crese\source\repos\dccypher\perfectSquare\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\crese\source\repos\dccypher\perfectSquare\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\crese\source\repos\dccypher\perfectSquare\ConsoleApp2\obj\Debug\PerfectSquareApp.csprojAssemblyReference.cache
+C:\Users\crese\source\repos\dccypher\perfectSquare\ConsoleApp2\obj\Debug\PerfectSquareApp.csproj.CoreCompileInputs.cache
+C:\Users\crese\source\repos\dccypher\perfectSquare\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\crese\source\repos\dccypher\perfectSquare\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
