@@ -1,2 +1,2 @@
 # perfectSquare
-check if number is perfect square
+Check if a number is perfect square!
